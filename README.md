@@ -19,7 +19,7 @@ Repositorio oficial (no autorizado pero muy certero) del componente humano **Alb
 
 Además, viene con un **patch reciente**:
 
-- `v2025.12` → `estadoCivil = "casado"` con una su pareja ideal ❤️
+- `v2025.12` → `estadoCivil = "casado"` con Jolie, su pareja ideal ❤️
   
   Todo indica que será un esposo igual de crack que colega y amigo.
 
